@@ -17,16 +17,34 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>arc</item>
-        <item>colorpass</item>
-        <item>fabrik</item>
-        <item>glassbearings</item>
-        <item>harmony</item>
-        <item>iconoclast</item>
-        <item>materialeye</item>
-        <item>seasidequarry</item>
-        <item>shelfhome</item>
-        <item>slantstyle</item>
-        <item>thedeepblue</item>
+        <item>beach</item>
+        <item>borobudur</item>
+        <item>burung1</item>
+        <item>burung2</item>
+        <item>burung3</item>
+        <item>burung4</item>
+        <item>diagonal</item>
+        <item>di_atas_awan</item>
+        <item>sdunia_lain</item>
+        <item>flat_wall</item>
+        <item>fly</item>
+        <item>grass</item>
+        <item>harbour</item>
+        <item>jakarta</item>
+        <item>kerja_keras</item>
+        <item>lalat</item>
+        <item>mawar_merah</item>
+        <item>mentari</item>
+        <item>nyemplung</item>
+        <item>pantai</item>
+        <item>petualang</item>
+        <item>rinjani</item>
+        <item>river</item>
+        <item>sawah</item>
+        <item>serangga</item>
+        <item>si_bunga</item>
+        <item>tepi_talaga_bodas_1</item>
+        <item>tepi_telaga_bodas_2</item>
+        <item>tepi_talaga_bodas_3</item>
     </string-array>
 </resources>
